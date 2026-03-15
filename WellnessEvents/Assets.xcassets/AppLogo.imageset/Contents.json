@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "WellnessEvent.png",
+      "filename" : "WellnessEvent-Photoroom.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "WellnessEvent-Photoroom 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "WellnessEvent-Photoroom 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
